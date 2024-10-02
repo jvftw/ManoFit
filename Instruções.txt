@@ -1,0 +1,12 @@
+Primeiro rode o comando " npm install nas duas páginas (backend e manofit)"
+
+Segundo rode o comando " npm install nodemon --save-dev nas duas páginas (backend e manofit)"
+
+npm install -g sequelize-cli
+
+
+Terceiro rode o comando " npm run dev na página backend"
+
+Quarto rode o comando " npm start expo na página manofit"
+
+<Text>{user}-{email}-{password}-{confirmPassword}</Text>
